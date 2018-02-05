@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://newevolutiondesigns.com/images/freebies/rainbow-wallpaper-14.jpg");
+}
+
+#wrapper {
+    text-align: center;
+}
+
+.mood {
+  display: inline-block;
+  border-radius: 40px;
+  line-height: 9em;
+  padding: 0 4em;
+}
+
+.image {
+  padding-top: 30%;
+}
